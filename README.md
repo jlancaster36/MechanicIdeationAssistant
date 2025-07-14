@@ -1,12 +1,12 @@
 # Enhanced Mechanic Ideation Assistant (MIA)
 
 <div align="center">
-  <h1>🎮 Enhanced MIA</h1>
+  <h1> Enhanced MIA</h1>
   <p><strong>AI-Powered Video Game Mechanic Generation</strong></p>
   <p>Transform narrative ideas into sophisticated game mechanics using real game data and cognitive decision-making</p>
 </div>
 
-## 🌟 Features
+## Features
 
 ### **Intelligent Decision Support**
 - **Cognitive Load Theory Integration** - Reduces mental burden through structured guidance
@@ -23,7 +23,7 @@
 - **Multi-source Synthesis** - Combines elements from multiple games
 - **Schema-driven Enhancement** - Framework-specific mechanic improvements
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -61,7 +61,7 @@ streamlit run app.py
 
 The app will open in your browser at `http://localhost:8501`
 
-## 🔑 API Setup
+## API Setup
 
 ### IGDB API (Required)
 1. Go to [IGDB API](https://api.igdb.com/)
@@ -74,7 +74,7 @@ The app will open in your browser at `http://localhost:8501`
 2. Create an account and get your API key
 3. Add it to your `.env` file
 
-## 📖 How to Use
+## How to Use
 
 ### Step 1: Select Narrative Prompt
 - Choose from preset story themes or create your own
@@ -107,7 +107,7 @@ The app will open in your browser at `http://localhost:8501`
 - Download complete summary with source analysis
 - Markdown format for easy sharing and documentation
 
-## 🧠 Cognitive Framework
+## Cognitive Framework
 
 The Enhanced MIA uses advanced cognitive theories:
 
@@ -123,7 +123,7 @@ ELSE:
     REINFORCE current schema choice
 ```
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 Enhanced MIA/
@@ -135,7 +135,7 @@ Enhanced MIA/
 └── README.md               # This file
 ```
 
-## 📊 Example Output
+## Example Output
 
 **Input:**
 - Narrative: "A hero loses their powers and must find a new way to save the world"
@@ -146,7 +146,7 @@ Enhanced MIA/
 **Output:**
 > "**Adaptive Ability System** that evolves based on character development and story progression, activated through environmental exploration, linked to mysterious object interactions and ancient powers with progressive character evolution mechanics requiring collaborative decision-making between characters"
 
-## 🧪 Testing
+## Testing
 
 Run the comprehensive test suite:
 ```bash
@@ -159,36 +159,3 @@ This executes 15 test scenarios validating:
 - Decision-making intervention appropriateness
 - Overall system performance
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- **IGDB** for providing comprehensive game database
-- **Anthropic** for Claude AI capabilities
-- **Streamlit** for the web framework
-- **Cognitive Science Research** for theoretical foundations
-
-## 📞 Support
-
-If you encounter issues:
-1. Check the [Issues](https://github.com/jlancaster36/MechanicIdeationAssistant/issues) page
-2. Ensure all API keys are correctly configured
-3. Verify Python dependencies are installed
-4. Check that you're using Python 3.8+
-
----
-
-<div align="center">
-  <p><strong>Enhanced MIA v1.0</strong></p>
-  <p>Transforming narrative ideas into sophisticated game mechanics</p>
-</div>
