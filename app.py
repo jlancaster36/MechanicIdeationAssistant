@@ -9,7 +9,6 @@ import os
 from typing import List, Dict, Any, Optional
 from datetime import datetime
 from dotenv import load_dotenv
-import random
 
 # Load environment variables
 load_dotenv()
